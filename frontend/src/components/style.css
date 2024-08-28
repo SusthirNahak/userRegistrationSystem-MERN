@@ -1,0 +1,25 @@
+.header{
+    background-color:#000000;
+    min-height: 60px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.header h3{
+    color: #26890d;
+    align-items: center;
+    padding:5px;
+    padding-top: 12px;
+}
+.form-div{
+    max-width: 37vw;
+    text-align: left;
+}
+.btn-save{
+    background-color: #26890d;
+    color: aliceblue;
+    font-weight: 700;
+    border: 0;
+    padding: 5px;
+    border-radius: 6px;
+}
